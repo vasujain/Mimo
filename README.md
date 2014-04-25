@@ -1,3 +1,5 @@
+# Part of Shutterfy Hack Day 2013 Project done by me and two other members. 
+
 # Welcome to Mimo
 
 
